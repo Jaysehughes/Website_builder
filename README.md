@@ -1,4 +1,4 @@
-# Website_builder
+# Website_Builder
 Python script to read data from .txt files and generate .html files
 
 This is a script I made to help me automate the creation of my website.
