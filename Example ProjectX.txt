@@ -1,0 +1,9 @@
+[UPDATE DATE] Oct 2025
+[UPDATE SUBTITLE] Github Update
+[UPDATE TEXT] I created a Github repository for this code. Embeding additional HTML can be used with tags <a href="google.com">Like this</a>
+[UPDATE VIDEO] https://www.youtube.com/embed/dQw4w9WgXcQ?
+
+[UPDATE DATE] Oct 2025
+[UPDATE SUBTITLE] Github Update
+[UPDATE TEXT] Just create as many entries as needed.
+[UPDATE VIDEO] https://www.youtube.com/embed/dQw4w9WgXcQ?
